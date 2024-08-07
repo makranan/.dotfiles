@@ -1,0 +1,5 @@
+* {lightbg: #020202; background: #020202; lightfg: #292f42; foreground: #ffffff; border-color: #292f42;} window {border: 2; font: "Geist Mono 11"; }
+
+element-text {
+    text-color: #ffffff;
+}
