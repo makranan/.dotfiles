@@ -119,6 +119,7 @@ source $ZSH/oh-my-zsh.sh
 alias ls=lsd
 alias up="cd .."
 alias vim=nvim
+alias s=sudo
 alias lab="cd Lab/Web\ Development"
 
 bindkey "^[[1;5A" history-substring-search-up
