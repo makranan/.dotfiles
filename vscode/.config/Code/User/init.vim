@@ -82,4 +82,4 @@ nmap gcc <Plug>VSCodeCommentaryLine
 nmap <Tab> :Tabnext<CR>
 nmap <S-Tab> :Tabprev<CR>
 
- set clipboard=unnamedplus
+set clipboard=unnamedplus

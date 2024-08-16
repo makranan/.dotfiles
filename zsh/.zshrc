@@ -120,7 +120,7 @@ alias ls=lsd
 alias up="cd .."
 alias vim=nvim
 alias s=sudo
-alias lab="cd Lab/Web\ Development"
+alias lab="cd ~/Lab/Web\ Development"
 
 bindkey "^[[1;5A" history-substring-search-up
 bindkey "^[[1;5B" history-substring-search-down

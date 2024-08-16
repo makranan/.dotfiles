@@ -10,7 +10,7 @@
 
   // Change font "editor.fontFamily": "Geist Mono",
   "scm.inputFontFamily": "Geist Mono",
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
   "chat.editor.fontFamily": "Geist Mono",
   "debug.console.fontFamily": "Geist Mono",
   "editor.codeLensFontFamily": "Geist Mono",
@@ -154,7 +154,7 @@
 
   // Neovim
   "vscode-neovim.neovimExecutablePaths.darwin": "/usr/bin/nvim",
-  "vscode-neovim.neovimInitVimPaths.darwin": "$HOME/.config/nvim/init.vim",
+  "vscode-neovim.neovimInitVimPaths.darwin": "$HOME/.config/Code/User/init.vim",
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
   },
