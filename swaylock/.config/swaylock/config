@@ -3,7 +3,7 @@ indicator-idle-visible
 ignore-empty-password
 show-failed-attempts
 show-keyboard-layout
-font=Ubuntu
+font=Geist Mono
 color=2f2f2f
 inside-color=2f2f2f
 inside-clear-color=eeeeee
