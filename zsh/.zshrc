@@ -125,5 +125,10 @@ alias lab="cd ~/Lab/Web\ Development"
 bindkey "^[[1;5A" history-substring-search-up
 bindkey "^[[1;5B" history-substring-search-down
 
+# Load custom aliases
+if [ -f ~/.aliases.zsh ]; then
+    source ~/.aliases.zsh
+fi
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
