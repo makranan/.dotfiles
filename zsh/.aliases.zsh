@@ -34,11 +34,12 @@ function boom {
 alias up="cd .."
 alias upp="cd .. && cd .."
 alias home="cd ~"
+alias dotfiles="cd ~/.dotfiles"
 
 # Various
-alias opencustomaliases="code  ~/.custom_bash_commands"
-alias updatecustomaliases="source ~/.custom_bash_commands"
-alias updatethenupgrade="sudo apt-get update && sudo apt-get upgrade"
+alias opencustomaliases="nvim  ~/.aliases.zsh"
+alias updatecustomaliases="source ~/.aliases.zsh"
+alias updatethenupgrade="sudo apt update && sudo apt upgrade"
 
 # Speed up bash
 function speedupbash() {

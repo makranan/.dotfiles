@@ -3,7 +3,7 @@
   "workbench.settings.editor": "json",
 
   // Theme
-  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.colorTheme": "Tokyo Night Storm",
 
   //"workbench.colorTheme": "Aura Dark",
   "workbench.iconTheme": "moxer-icons",
@@ -33,7 +33,7 @@
     "size": 20
   },
   "apc.electron": {
-    "titleBarStyle": "hiddenInset",
+    "titleBarStyle": "",
     "trafficLightPosition": {
       "x": 12,
       "y": 10
