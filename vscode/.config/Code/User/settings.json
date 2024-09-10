@@ -8,15 +8,16 @@
   //"workbench.colorTheme": "Aura Dark",
   "workbench.iconTheme": "moxer-icons",
 
-  // Change font "editor.fontFamily": "Geist Mono",
-  "scm.inputFontFamily": "Geist Mono",
+  // Change font
+  "editor.fontFamily": "MesloLGS Nerd Font",
+  "scm.inputFontFamily": "MesloLGS Nerd Font",
   "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
-  "chat.editor.fontFamily": "Geist Mono",
-  "debug.console.fontFamily": "Geist Mono",
-  "editor.codeLensFontFamily": "Geist Mono",
-  "notebook.output.fontFamily": "Geist Mono",
-  "markdown.preview.fontFamily": "Geist Mono",
-  "editor.inlayHints.fontFamily": "Geist Mono",
+  "chat.editor.fontFamily": "MesloLGS Nerd Font",
+  "debug.console.fontFamily": "MesloLGS Nerd Font",
+  "editor.codeLensFontFamily": "MesloLGS Nerd Font",
+  "notebook.output.fontFamily": "MesloLGS Nerd Font",
+  "markdown.preview.fontFamily": "MesloLGS Nerd Font",
+  "editor.inlayHints.fontFamily": "MesloLGS Nerd Font",
 
   // Font size
   "editor.fontSize": 14,
@@ -27,20 +28,8 @@
   "editor.scrollbar.horizontal": "auto",
 
   // APC
-  "apc.activityBar": {
-    "position": "bottom",
-    "hideSettings": true,
-    "size": 20
-  },
-  "apc.electron": {
-    "titleBarStyle": "",
-    "trafficLightPosition": {
-      "x": 12,
-      "y": 10
-    }
-  },
-  "apc.font.family": "Geist Mono",
-  "apc.monospace.font.family": "Geist Mono",
+  "apc.font.family": "MesloLGS Nerd Font",
+  "apc.monospace.font.family": "MesloLGS Nerd Font",
   "apc.statusBar": {
     "position": "editor-bottom",
     "height": 28,
