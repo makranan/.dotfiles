@@ -87,7 +87,8 @@
     "titleBar.activeBorder": "#202020",
     "panel.background": "#202020",
     "panel.border": "#202020",
-    "panelTitle.activeBorder": "#202020"
+    "panelTitle.activeBorder": "#202020",
+    "editor.wordWrap": "on"
   },
 
   // "editor.tokenColorCustomizations": {
@@ -1178,5 +1179,10 @@
   "git.confirmSync": false,
   "git.autofetch": true,
   "editor.minimap.enabled": false,
-  "update.mode": "manual"
+  "update.mode": "manual",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.stickyScroll.enabled": false,
+  "workbench.sideBar.location": "right",
+  "svelte.enable-ts-plugin": true
 }

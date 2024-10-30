@@ -1,0 +1,33 @@
+* {
+  font-family: "Geist Mono" !important;
+  font: "Geist Mono"
+}
+
+#titlebar {
+  display: none !important;
+}
+
+#TabsToolbar {
+  visibility: collapse !important;
+}
+
+/* To hide horizontal bars */
+#main-window[tabsintitlebar='true']:not([extradragspace='true']) #TabsToolbar {
+  opacity: 0;
+  pointer-events: none;
+}
+
+#main-window:not([tabsintitlebar='true']) #TabsToolbar {
+  visibility: collapse !important;
+}
+
+/* #titlebar {
+  visibility: none !important;
+} */
+
+/* For Tree Style Tab */
+#sidebar-header {
+  /* font-size: 2em !important; */
+  /* padding: 5px 2px 5px 13px !important; */
+  visibility: collapse !important;
+}

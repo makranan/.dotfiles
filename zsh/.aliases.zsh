@@ -40,6 +40,8 @@ alias dotfiles="cd ~/.dotfiles"
 alias opencustomaliases="nvim  ~/.aliases.zsh"
 alias updatecustomaliases="source ~/.aliases.zsh"
 alias updatethenupgrade="sudo apt update && sudo apt upgrade"
+alias update="sudo apt update"
+alias upgrade="sudo apt upgrade"
 
 # Speed up bash
 function speedupbash() {
