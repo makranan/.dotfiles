@@ -1180,9 +1180,8 @@
   "git.autofetch": true,
   "editor.minimap.enabled": false,
   "update.mode": "manual",
-  "workbench.statusBar.visible": false,
-  "workbench.activityBar.location": "hidden",
   "editor.stickyScroll.enabled": false,
   "workbench.sideBar.location": "right",
-  "svelte.enable-ts-plugin": true
+  "svelte.enable-ts-plugin": true,
+  "gitlens.home.preview.enabled": false
 }

@@ -123,6 +123,7 @@ alias up="cd .."
 alias vim=nvim
 alias s=sudo
 alias lab="cd ~/Lab/Web\ Development"
+alias aide="/usr/share/aide/aide"
 
 bindkey "^[[1;5A" history-substring-search-up
 bindkey "^[[1;5B" history-substring-search-down
